@@ -1,0 +1,37 @@
+#output{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    
+   gap: 25px;
+   
+   
+   
+}
+#output>div:hover{
+ transform:scale(1.3);
+}
+#output>div{
+   
+    text-align: center;
+    border-radius: 50px;
+    font-size: 25px;
+    font-weight: 900;
+    border: solid #214c52;
+    background-color:#efcc8c;
+    transition: 1s;
+}
+#body{
+    background-color:#214c52;
+}
+#backbb{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    padding: 15px;
+}
+#backbb>button{
+   padding: 20px;
+   background-color:#efc26f;
+   color:#214c52;
+   font-size: 25px;
+}

@@ -1,0 +1,22 @@
+#search{
+    width: 450px;
+    margin-top: 320px;
+ margin-left: 450px;
+ padding: 10px;
+border-radius: 15px;
+/* background-color: #21393e; */
+border:solid rgb(7, 5, 5);
+
+}
+#ss{
+    padding: 5px;
+    border-radius: 50px;
+    border:solid rgb(20, 2, 2);
+    /* background-color: #21393e; */
+    /* color: white; */
+}
+#background{
+    height: 50px;
+   background-size: cover;
+    background-image:url("https://images.hdqwalls.com/wallpapers/all-avengers-4k-8m.jpg");
+}
